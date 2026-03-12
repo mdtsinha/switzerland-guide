@@ -1,6 +1,6 @@
 # Switzerland 🇨🇭
 
-![Swiss Landscape](Switzerland/Swiss.jpg)
+![Swiss Landscape](Switzerland%F0%9F%87%A8%F0%9F%87%AD/Swiss.jpg)
 
 ### Mudit – Swiss Personal Research Playlist
 
